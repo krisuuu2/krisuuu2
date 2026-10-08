@@ -13,6 +13,11 @@ I test them on my own businesses first, so what you find here has already run on
 - Your agent finds what to write, writes articles that rank and get quoted by AI assistants, links them and keeps a weekly rhythm.
 - Works with Claude Code, Codex, Cursor, Gemini CLI and GitHub Copilot.
 
+**[zero-editor-video](https://github.com/krisuuu2/zero-editor-video)** · *Make videos with your AI agent in code alone.*
+- No video editor, no Remotion, no HyperFrames: a browser draws every frame and FFmpeg joins them into an MP4.
+- Every animation lands on a spoken word of your voiceover, and the agent checks the video before you post it.
+- One prompt or one Agent Skill, for any coding agent.
+
 #### 🧠 What I work on
 - **AI agents and automations** for small businesses: content engines, lead pipelines, document and voice workflows.
 - **Claude Code skills and agent workflows**, portable across coding agents through AGENTS.md and Agent Skills.
