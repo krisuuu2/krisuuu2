@@ -24,7 +24,7 @@ I test them on my own businesses first, so what you find here has already run on
 - **AI video pipelines**: the short reels on my channels are scripted, voiced and animated by my own tools.
 
 #### 📺 Where I show it
-- **YouTube:** [Content Auto Lab](https://www.youtube.com/@ContentAutoLab), short breakdowns of AI tools you can use today.
+- **YouTube:** [Kris | AI, Practically](https://www.youtube.com/@aipracticallykris), AI for real problems, not shiny demos.
 - **Instagram:** [@aipractically](https://www.instagram.com/aipractically/)
 - **LinkedIn:** [Krzysztof Łomonkiewicz](https://www.linkedin.com/in/krzysztof-lomonkiewicz)
 
